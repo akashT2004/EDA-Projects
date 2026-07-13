@@ -1,49 +1,88 @@
-# 📊 Data Analytics Portfolio – Exploratory Data Analysis Projects
+# 📊 Data Analytics Portfolio
 
 ## 📌 Overview
 
-This repository contains three end-to-end Exploratory Data Analysis (EDA) projects developed using Python. Each project demonstrates data cleaning, preprocessing, visualization, statistical analysis, and business problem-solving across different domains.
+Welcome to my Data Analytics Portfolio! This repository contains three end-to-end Exploratory Data Analysis (EDA) projects developed using Python. These projects demonstrate my ability to clean, preprocess, analyze, visualize, and interpret real-world datasets across multiple domains.
 
-The projects were completed using real-world datasets and focus on extracting actionable insights through data-driven analysis.
+The objective of these projects is to transform raw data into meaningful business insights using data analysis techniques and visualizations.
 
 ---
 
-## 🚀 Projects Included
+# 🚀 Projects Included
 
-### 📱 EDA01 – App Insights Analysis
+## 1️⃣ App Insights Analysis
+
 **Domain:** Mobile Applications
 
-- Google Play Store dataset analysis
-- Data cleaning and preprocessing
-- App ratings, installs, reviews, pricing, and category analysis
-- 25 business questions answered
-- 20+ visualizations
+### Description
+Analyzed the Google Play Store dataset to understand application performance, user engagement, pricing strategies, and category trends.
+
+### Key Highlights
+
+- Data Cleaning & Preprocessing
+- Handling Missing Values
+- Data Type Conversion
+- Exploratory Data Analysis
+- App Rating Analysis
+- Install Analysis
+- Free vs Paid Apps
+- Category Analysis
+- Review Analysis
+- 20+ Visualizations
+
+**Dataset:** Google Play Store Apps Dataset
 
 ---
 
-### 🏨 EDA02 – Hotel Operations Analysis
+## 2️⃣ Hotel Operations Analysis
+
 **Domain:** Hospitality
 
-- Hotel booking demand analysis
-- Booking trends and cancellation analysis
-- ADR, customer type, market segment, and room allocation analysis
-- 25 business questions answered
-- 20+ visualizations
+### Description
+
+Performed exploratory data analysis on hotel booking data to identify booking trends, customer behavior, cancellation patterns, and revenue opportunities.
+
+### Key Highlights
+
+- Booking Trend Analysis
+- Cancellation Analysis
+- ADR (Average Daily Rate) Analysis
+- Customer Type Analysis
+- Market Segment Analysis
+- Distribution Channel Analysis
+- Room Type Analysis
+- Booking Lead Time Analysis
+- 20+ Visualizations
+
+**Dataset:** Hotel Booking Demand Dataset
 
 ---
 
-### ❤️ EDA03 – Heart Health Analysis
+## 3️⃣ Heart Health Analysis
+
 **Domain:** Healthcare
 
-- Heart disease data analysis
-- Clinical measurement and risk factor analysis
-- Logistic Regression model for heart disease prediction
-- 25 business questions answered
-- 20+ visualizations
+### Description
+
+Analyzed patient clinical data to identify major heart disease risk factors and developed a Logistic Regression model for heart disease prediction.
+
+### Key Highlights
+
+- Clinical Data Analysis
+- Risk Factor Identification
+- Correlation Analysis
+- Outlier Detection
+- Feature Normalization
+- Logistic Regression Model
+- Confusion Matrix
+- Classification Report
+- 20+ Visualizations
+
+**Dataset:** Heart Disease Dataset
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -55,28 +94,81 @@ The projects were completed using real-world datasets and focus on extracting ac
 
 ---
 
-## 📁 Repository Structure
+# 📂 Repository Structure
 
 ```
 Data-Analytics-Portfolio/
 │
-├── EDA01_App_Insights_Analysis/
-├── EDA02_Hotel_Operations_Analysis/
-├── EDA03_Heart_Health_Analysis/
+├── Dataset/
+│   ├── googleplaystore.csv
+│   ├── hotel_bookings.csv
+│   └── heart.csv
+│
+├── Images/
+│   ├── Project1/
+│   ├── Project2/
+│   └── Project3/
+│
+├── EDA01_App_Insights_Analysis.ipynb
+├── EDA02_Hotel_Operations_Analysis.ipynb
+├── EDA03_Heart_Health_Analysis.ipynb
 │
 └── README.md
 ```
 
 ---
 
-## 🎯 Skills Demonstrated
+# 📈 Skills Demonstrated
 
 - Data Cleaning & Preprocessing
+- Handling Missing Values
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
-- Data Visualization
 - Correlation Analysis
 - Feature Engineering
-- Business Insights
-- Predictive Modeling (Logistic Regression)
+- Data Visualization
+- Business Problem Solving
+- Predictive Analytics
+- Machine Learning (Logistic Regression)
+
+---
+
+# 📊 Tools & Libraries
+
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn |
+| Development | Jupyter Notebook |
+
+---
+
+# 📌 Key Outcomes
+
+- Completed **3 end-to-end EDA projects** across different domains.
+- Performed comprehensive data cleaning and preprocessing.
+- Created **60+ visualizations** to uncover meaningful insights.
+- Solved **75 business case study questions** (25 per project).
+- Built a **Logistic Regression model** for heart disease prediction.
+- Generated actionable insights to support business and healthcare decision-making.
+
+---
+
+# 🎯 Learning Outcomes
+
+Through these projects, I strengthened my understanding of:
+
+- Data Wrangling
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Thinking
+- Business Analytics
+- Healthcare Analytics
+- Hospitality Analytics
+- Mobile App Analytics
+- Predictive Modeling
+- Data-Driven Decision Making
+
 
